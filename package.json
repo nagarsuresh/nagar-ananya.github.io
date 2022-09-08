@@ -1,0 +1,19 @@
+{
+  "name": "nagar-ananya.github.io",
+  "version": "1.0.0",
+  "description": "Learn - Educational Free Responsive Web Template -------",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagarsuresh/nagar-ananya.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagarsuresh/nagar-ananya.github.io/issues"
+  },
+  "homepage": "https://github.com/nagarsuresh/nagar-ananya.github.io#readme"
+}
